@@ -35,6 +35,7 @@ export { List } from "./List/index";
 export { ListItem } from "./List/ListItem/index";
 export { ListChoice } from "./ListChoice/index";
 export { InputFile } from "./InputFile/index";
+export { Inline } from "./Inline";
 export { Loading } from "./Loading/index";
 export { Popover } from "./Popover/index";
 export { PricingTable } from "./PricingTable/index";

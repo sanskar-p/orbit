@@ -58,7 +58,8 @@ storiesOf("Inline", module)
       );
     },
     {
-      info: "Some description about this type of component. ",
+      info:
+        "info: You can try all possible configurations of this component. However, check Orbit.Kiwi for more detailed design guidelines.",
     },
   )
   .add(

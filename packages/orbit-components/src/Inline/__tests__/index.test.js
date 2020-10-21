@@ -15,8 +15,8 @@ const tokens = {
   medium: theme.orbit.spaceMedium,
   large: theme.orbit.spaceLarge,
   "x-large": theme.orbit.spaceXLarge,
-  "xx-large": theme.orbit.spaceXLarge,
-  "xxx-large": theme.orbit.spaceXLarge,
+  "xx-large": theme.orbit.spaceXXLarge,
+  "xxx-large": theme.orbit.spaceXXXLarge,
 };
 
 const Elements = () => (
